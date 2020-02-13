@@ -1,0 +1,8 @@
+pyautogui
+pywin32
+Image
+pillow
+pyscreeze
+PyTweening
+opencv_python
+tqdm
